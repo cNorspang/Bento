@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Casper',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -55,19 +55,19 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/cNorspang',
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Bitbucket',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://git.netic.dk',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Jira',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://jira.netic.dk',
 		},
 		{
 			id: '4',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Docs',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'https://mail.google.com',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: "Jira - My Day",
+					link: "https://jira.netic.dk/secure/Dashboard.jspa?selectPageId=14312", 
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Jira - Cloud Native',
+					link: 'https://jira.netic.dk/secure/Dashboard.jspa#',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Obsidian - Daily Note',
+					link: 'obsidian://advanced-uri?vault=Work&daily=true',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Business Central - Time Recording',
+					link: 'https://businesscentral.netic.dk/BC190/',
 				},
 			],
 		},
@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Youtube',
+					link: 'https://www.youtube.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Currents',
+					link: 'https://currents.google.com/',
 				},
 			],
 		},
