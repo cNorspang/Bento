@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Casper',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: 'e081c3133bbe5ba6e419d29291bd1c99', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Docs',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://docs.netic.dk',
 		},
 		{
 			id: '6',
@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.youtube.com',
 				},
 				{
-					name: 'Currents',
-					link: 'https://currents.google.com/',
+					name: 'Kubernetes Docs',
+					link: 'https://kubernetes.io/docs/home/',
 				},
 			],
 		},
